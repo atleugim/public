@@ -1,0 +1,17 @@
+// DO NOT EDIT OR REPLACE ANY VALUES
+// THESE ARE SETTINGS ESTABLISHED FOR THE PROJECT
+{
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+  "editor.fontLigatures": true,
+  "explorer.compactFolders": false,
+  "editor.rulers": [80],
+  "editor.wordWrapColumn": 80,
+  "editor.wordWrap": "wordWrapColumn",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
