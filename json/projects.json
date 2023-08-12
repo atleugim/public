@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Hi Beauty",
+    "description": "Purchase a subscription box and beauty products.",
+    "featured": true,
+    "type": "website",
+    "link": "https://hibeauty.com.co/",
+    "technologies": [
+      {
+        "id": "react.js",
+        "name": "React.js"
+      },
+      {
+        "id": "next.js",
+        "name": "Next.js"
+      },
+      {
+        "id": "tailwindcss",
+        "name": "Tailwind CSS"
+      }
+    ]
+  },
+  {
+    "name": "Take2",
+    "description": "Acquire coupons and redeeming them at different businesses.",
+    "featured": true,
+    "type": "app",
+    "link": "https://play.google.com/store/apps/details?id=dev.take2.app",
+    "technologies": [
+      {
+        "id": "dart",
+        "name": "Dart"
+      },
+      {
+        "id": "flutter",
+        "name": "Flutter"
+      }
+    ]
+  },
+  {
+    "name": "Reemper",
+    "description": "Develop your professional profile, get clients, generate income and make yourself known.",
+    "featured": true,
+    "type": "app",
+    "link": "https://play.google.com/store/apps/details?id=co.reemp.reemper.prod",
+    "technologies": [
+      {
+        "id": "dart",
+        "name": "Dart"
+      },
+      {
+        "id": "flutter",
+        "name": "Flutter"
+      }
+    ]
+  },
+  {
+    "name": "iCards",
+    "description": "Learn english vocabulary with flashcards.",
+    "type": "app",
+    "link": "https://play.google.com/store/apps/details?id=co.startupslab.icard",
+    "technologies": [
+      {
+        "id": "dart",
+        "name": "Dart"
+      },
+      {
+        "id": "flutter",
+        "name": "Flutter"
+      }
+    ]
+  },
+  {
+    "name": "paginated_listview",
+    "description": "A flutter package for paginated ListView.",
+    "type": "package",
+    "link": "https://pub.dev/packages/paginated_listview",
+    "technologies": [
+      {
+        "id": "dart",
+        "name": "Dart"
+      },
+      {
+        "id": "flutter",
+        "name": "Flutter"
+      }
+    ]
+  },
+  {
+    "name": "Fembed Source Scrapper API",
+    "description": "Get original video sources from fembed.com.",
+    "type": "api",
+    "featured": true,
+    "link": "https://github.com/atleugim/Fembed-Source-Scrapper",
+    "repo": "https://github.com/atleugim/Fembed-Source-Scrapper",
+    "technologies": [
+      {
+        "id": "node.js",
+        "name": "Node.js"
+      },
+      {
+        "id": "express.js",
+        "name": "Express.js"
+      },
+      {
+        "id": "puppeteer",
+        "name": "Puppeteer"
+      }
+    ]
+  },
+  {
+    "name": "Monoschinos API",
+    "description": "Anime content api, built using web scrapping on the original website to get all the information.",
+    "type": "api",
+    "link": "https://github.com/atleugim/monoschinos-api",
+    "repo": "https://github.com/atleugim/monoschinos-api",
+    "technologies": [
+      {
+        "id": "node.js",
+        "name": "Node.js"
+      },
+      {
+        "id": "express.js",
+        "name": "Express.js"
+      },
+      {
+        "id": "puppeteer",
+        "name": "Puppeteer"
+      }
+    ]
+  }
+]

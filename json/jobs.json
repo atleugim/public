@@ -1,0 +1,17 @@
+[
+  {
+    "company": "SUBSCRIPTIONBOX CO",
+    "role": "Lead Frontend Developer",
+    "description": "Build and maintain the website as well as the internal systems, set up the tech stack."
+  },
+  {
+    "company": "GRUPO REEMP",
+    "role": "Flutter Developer",
+    "description": "Maintain flutter applications, as well as implement performance improvements and new features."
+  },
+  {
+    "company": "STARTUPSLAB AGENCIA",
+    "role": "Frontend Developer",
+    "description": "Contributed to the construction of the website and services, built websites for agency clients and internal products."
+  }
+]
