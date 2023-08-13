@@ -38,9 +38,10 @@
     ]
   },
   {
-    "name": "StartupsLab Agencia (🚧)",
+    "name": "StartupsLab Agencia",
     "description": "Agency website, services and customers showcase.",
     "featured": true,
+    "under_construction": true,
     "type": "website",
     "link": "https://startupslabagencia.vercel.app/",
     "technologies": [
