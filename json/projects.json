@@ -38,9 +38,29 @@
     ]
   },
   {
+    "name": "StartupsLab Agencia (Under Construction)",
+    "description": "Agency website, services and customers showcase.",
+    "featured": true,
+    "type": "website",
+    "link": "https://startupslabagencia.vercel.app/",
+    "technologies": [
+      {
+        "id": "react.js",
+        "name": "React.js"
+      },
+      {
+        "id": "next.js",
+        "name": "Next.js"
+      },
+      {
+        "id": "tailwindcss",
+        "name": "Tailwind CSS"
+      }
+    ]
+  },
+  {
     "name": "Reemper",
     "description": "Develop your professional profile, get clients, generate income and make yourself known.",
-    "featured": true,
     "type": "app",
     "link": "https://play.google.com/store/apps/details?id=co.reemp.reemper.prod",
     "technologies": [
