@@ -1,21 +1,25 @@
 [
   {
     "company": "LUM LOGISTIC",
+    "date": "Present",
     "role": "Frontend Engineer",
     "description": "Build internal systems for logistics management."
   },
   {
     "company": "SUBSCRIPTIONBOX CO",
+    "date": "2022 - 2023",
     "role": "Lead Frontend Developer",
     "description": "Build and maintain the website as well as the internal systems, set up the tech stack."
   },
   {
     "company": "GRUPO REEMP",
+    "date": "2021 - 2022",
     "role": "Flutter Developer",
     "description": "Maintain flutter applications, as well as implement performance improvements and new features."
   },
   {
     "company": "STARTUPSLAB AGENCIA",
+    "date": "2020 - 2022",
     "role": "Frontend Developer",
     "description": "Contributed to the construction of the website and services, built websites for agency clients and internal products."
   }
